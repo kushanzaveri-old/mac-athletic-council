@@ -10798,7 +10798,7 @@ h6 {
 .home-header {
     padding-top: 50px;
     border-top: 1px solid #50c1e9;
-    background: url(../img/wild_flowers.png) repeat 0 0
+    background: url(../img/carbon.png) repeat 0 0
 }
 
 .home-header.header--noBackground {
@@ -10842,7 +10842,7 @@ h6 {
         padding-top: 0
     }
 }
-
+/*End Headers*/
 .navbar-custom {
     position: fixed;
     top: 0;
